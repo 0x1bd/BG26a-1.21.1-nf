@@ -1,0 +1,16 @@
+{
+    "name": "Hazen 'n Stuff",
+    "slug": "hazen-n-stuff",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "hazennstuff-1.4.0.13.jar",
+    "hashes": {
+        "sha512": "fe0d9d86bbe7c538c4417b1457809bbcd1d4f5b68630f1694114fd02345337ca9459d31ab461ffad15ad1d9d04d0a3ff202fefe519724ed8e70cb1165de880aa",
+        "sha1": "73f341eee740d71d3453aacf454445d99acda37c"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/I94FeWYD/versions/UrjTQlC8/hazennstuff-1.4.0.13.jar",
+    "fileSize": 7854127,
+    "projectId": "I94FeWYD",
+    "manualLink": null
+}

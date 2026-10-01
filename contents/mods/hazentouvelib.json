@@ -1,0 +1,16 @@
+{
+    "name": "HazentouveLib",
+    "slug": "hazentouvelib",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "hazentouvelib-1.0.9.jar",
+    "hashes": {
+        "sha512": "b7fdfe137ba0fd49ddea00861853e5e63f42742b89d855cbe3ce87b5b62cbeb944dedc070b5ba859fdad6cb2ce10f37c13373b2e660a8150b14119623dd59816",
+        "sha1": "b5d68711babb604e368b918683eb89a4d1492077"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/nZaIUw7C/versions/zSqYdmPI/hazentouvelib-1.0.9.jar",
+    "fileSize": 559849,
+    "projectId": "nZaIUw7C",
+    "manualLink": null
+}
