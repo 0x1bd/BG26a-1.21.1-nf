@@ -1,0 +1,16 @@
+{
+    "name": "EMF Compat: Iron's Spells 'n Spellbooks",
+    "slug": "emf-compat-irons-spells-n-spellbooks",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "emf_compat_iron_spells_1.21.1_2.0.0.jar",
+    "hashes": {
+        "sha1": "515b545870fce128bbf01a0ccacdd19566ed3b22",
+        "sha512": "f35a08596fdc04dcc78c581bc043fab1e9efb2ddc14f0357830c2c53722bcd176bd2759ebb02df4e4dd9903a68c5e91cf3f479a55909eae92320d8ab661912d0"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/rk0DMjc3/versions/WYdjExJI/emf_compat_iron_spells_1.21.1_2.0.0.jar",
+    "fileSize": 107917,
+    "projectId": "rk0DMjc3",
+    "manualLink": null
+}

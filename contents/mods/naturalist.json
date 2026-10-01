@@ -1,0 +1,16 @@
+{
+    "name": "Naturalist",
+    "slug": "naturalist",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "naturalist-2.0.5-neoforge-1.21.1.jar",
+    "hashes": {
+        "sha512": "7c5f1ce90a097a0e097ef60049b3ae1597295286b2e485d89c960504c150d62fd711b7286a90512f3b8bf27953a4f9d816a9c6a58700b888f59d05d5a7cb03e1",
+        "sha1": "ea9ebf082eb978dcf583255e8fca1004a8114ab6"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/F8BQNPWX/versions/ETgOvHHS/naturalist-2.0.5-neoforge-1.21.1.jar",
+    "fileSize": 11325729,
+    "projectId": "F8BQNPWX",
+    "manualLink": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Better Zoom",
+    "slug": "better-zoom",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "betterzoom-neoforge-1.21.1-2.9.0.jar",
+    "hashes": {
+        "sha1": "0e9179ce1c22ebccab50c8ec47978a9ce5bbbdf3",
+        "sha512": "7dfee020e6f1607ec21fd506c5b346980e2d3f2d5c6d5379e560b76f250e9bec5e5d4954000773721a4341eee1e416ac4c527f8187cc266de6dda70743ae56b4"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/rOY9XqdO/versions/20L3hiMA/betterzoom-neoforge-1.21.1-2.9.0.jar",
+    "fileSize": 112812,
+    "projectId": "rOY9XqdO",
+    "manualLink": null
+}

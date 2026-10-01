@@ -1,0 +1,16 @@
+{
+    "name": "Reliquified Iron's Spells 'n Spellbooks",
+    "slug": "reliquified-irons-spells-n-spellbooks",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar",
+    "hashes": {
+        "sha512": "773a56864285f860602ba74b0f6416ffb2c7fe55456b672c71a425006a78f8e265bfec07ee563668f67806a812641bdff2260fc97cf7826cd3773f8c49bed14d",
+        "sha1": "e22fd94c87cb88b3cfa4637c48a1058260d35a9b"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/NFDUFVtK/versions/3c2Q2RnP/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar",
+    "fileSize": 653721,
+    "projectId": "NFDUFVtK",
+    "manualLink": null
+}

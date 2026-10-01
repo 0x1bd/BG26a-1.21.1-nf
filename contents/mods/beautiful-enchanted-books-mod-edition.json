@@ -1,0 +1,16 @@
+{
+    "name": "Beautiful Enchanted Books [MOD EDITION]",
+    "slug": "beautiful-enchanted-books-mod-edition",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "BEB-NeoForge-1.21-6.0.0.jar",
+    "hashes": {
+        "sha512": "7cc5dc954d19c9f483254ddad0ac31d263c173d9c179931b5fc024c00badf6838ee131ccde5b15a7d10c9cabd1a9f70e894a5d39720fcaa30fd96efca33fc46a",
+        "sha1": "4a1828c61a420b3ef1b759b9cbe595de5c85a48e"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/pcqEicMM/versions/XeLhIDWZ/BEB-NeoForge-1.21-6.0.0.jar",
+    "fileSize": 1772579,
+    "projectId": "pcqEicMM",
+    "manualLink": null
+}

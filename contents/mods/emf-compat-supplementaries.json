@@ -1,0 +1,16 @@
+{
+    "name": "EMF Compat: Supplementaries",
+    "slug": "emf-compat-supplementaries",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "emf_compat_supplementaries_1.21.1_1.1.0.jar",
+    "hashes": {
+        "sha1": "19d8edc1bd544fc74c19a7248c2f03ac0482b9db",
+        "sha512": "c9fb6ecb1d2cde1abdd0d1dee871034018c5b271167f741276de09da1b693888b680c0e3dc06435a1a2957eba142a5c1970106cce34d5dfa3e3ed500b9e4ba54"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/z4FSlBqI/versions/OugZtbdb/emf_compat_supplementaries_1.21.1_1.1.0.jar",
+    "fileSize": 142984,
+    "projectId": "z4FSlBqI",
+    "manualLink": null
+}

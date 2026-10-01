@@ -1,0 +1,16 @@
+{
+    "name": "Relics",
+    "slug": "relics-mod",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "relics-1.21.1-0.12.8.jar",
+    "hashes": {
+        "sha512": "4490d5d1f7ae24fe69135151b5730018ec7f2e64970349d590564c70d8d67f94d805c5680866086b4c8ba9afb4999b9c0b97b869b6fb24a90808e9ca73974b7f",
+        "sha1": "1fe7d57ebfa56ebd0aeecfed01075f8b55b94ef7"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/OCJRPujW/versions/WKEe9sPL/relics-1.21.1-0.12.8.jar",
+    "fileSize": 5007593,
+    "projectId": "OCJRPujW",
+    "manualLink": null
+}

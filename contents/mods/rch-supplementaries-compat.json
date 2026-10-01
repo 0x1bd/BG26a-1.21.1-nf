@@ -1,0 +1,16 @@
+{
+    "name": "RightClickHarvest Supplementaries Compat",
+    "slug": "rch-supplementaries-compat",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "rch-supplementaries-compat-neoforge-2.0.0+1.21.jar",
+    "hashes": {
+        "sha1": "54c9089b67c3bf50e5cf8e5fe435d16c577eeb78",
+        "sha512": "261f335297557bda41970ae5992dd82e3e4926ba9ac30586a9d37105852159485a6fd4d1b4e6f36c3cddfa5ac4571012bd8d98f9390ec1730a1ca9500fe6b9b8"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/1UdKJCjq/versions/npvyks25/rch-supplementaries-compat-neoforge-2.0.0%2B1.21.jar",
+    "fileSize": 134054,
+    "projectId": "1UdKJCjq",
+    "manualLink": null
+}

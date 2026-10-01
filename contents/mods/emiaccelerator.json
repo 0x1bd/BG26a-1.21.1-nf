@@ -1,0 +1,16 @@
+{
+    "name": "EmiAccelerator",
+    "slug": "emiaccelerator",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "emi_accelerator-1.1.4.jar",
+    "hashes": {
+        "sha1": "1bf4bb0f591cb93e7e5610a622151f956a21349a",
+        "sha512": "a3a38ad9bf36f2ccc23843f059079ceb12d6f3d432fe103c8f55afeff181dac864cf8502412372cf8d5c54ec5eb0cee133ef836047a81980cc0d80454e0eaab5"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/tcEn0k7K/versions/XGUSMafs/emi_accelerator-1.1.4.jar",
+    "fileSize": 49884,
+    "projectId": "tcEn0k7K",
+    "manualLink": null
+}

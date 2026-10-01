@@ -1,0 +1,16 @@
+{
+    "name": "Iron's Spells 3D Cast Preview",
+    "slug": "irons-spells-3d-cast-preview",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "iss_ponder-neoforge1.21.1-1.0.3.jar",
+    "hashes": {
+        "sha512": "6d6f80fa52adfa1913badbbc3bce0af43dc7f48f9f7dd4e3e9f32149f0564a7089c9ba2d6e3ad7ef8646dde2e66254f85ced7ee9070942a572ceffc6413b070e",
+        "sha1": "d95d84326c41bf1208585bd92e18c5872165e8d9"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/Zm4WpKEh/versions/85Ce54fC/iss_ponder-neoforge1.21.1-1.0.3.jar",
+    "fileSize": 1652190,
+    "projectId": "Zm4WpKEh",
+    "manualLink": null
+}
