@@ -1,0 +1,16 @@
+{
+    "name": "Apothic Attributes",
+    "slug": "apothic-attributes",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "ApothicAttributes-1.21.1-2.11.0.jar",
+    "hashes": {
+        "sha1": "7ff0e452e10cb582c188626a413037e63db9ca04",
+        "sha512": "568580e68016161151fc0254fb0da949b42cf285fa2bf7c3aec1cd320405c430483e9eb990aaddef537bfac4aa4beb21db82fbff9249131e05b15063b6839611"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/64fZbLnj/ApothicAttributes-1.21.1-2.11.0.jar",
+    "fileSize": 319609,
+    "projectId": "DGaH8Rh0",
+    "manualLink": null
+}

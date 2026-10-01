@@ -1,0 +1,16 @@
+{
+    "name": "protected-pvp",
+    "slug": "protected-pvp",
+    "provider": "local",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "protected-pvp-0.1.0.jar",
+    "hashes": {
+        "sha1": "64e9381811388caf31f55f95d119da6a2c06e79b",
+        "sha512": "c72775c4b695a760306f1b67be9a85fbe7a996c310e1729c8de67460bc559a3ac765ec08a9b9af68f78e80d8883d7c8244efb991980d845f55cda5331748cd17"
+    },
+    "downloadUrl": "",
+    "fileSize": 26459,
+    "projectId": "64e9381811388caf31f55f95d119da6a2c06e79b",
+    "manualLink": null
+}
