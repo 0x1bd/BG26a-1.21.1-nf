@@ -1,0 +1,16 @@
+{
+    "name": "Lionfish-API",
+    "slug": "lionfish-api",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "lionfishapi-3.1.jar",
+    "hashes": {
+        "sha512": "fdd90f19d0424c3a837111291d6ac1547d62cbcedd43b74d3a8946912f9c5212a5ea239a6969eccf678289bcb77cbb9a937db01fdaf60e57826f9a99893d19cb",
+        "sha1": "353ca00ed118eb67cf11085abbbd699884722326"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar",
+    "fileSize": 91596,
+    "projectId": "FoVacERa",
+    "manualLink": null
+}

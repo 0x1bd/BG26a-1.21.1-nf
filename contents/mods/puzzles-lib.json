@@ -1,0 +1,16 @@
+{
+    "name": "Puzzles Lib",
+    "slug": "puzzles-lib",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "puzzleslib-v21.1.62-mc1.21.1+neoforge.jar",
+    "hashes": {
+        "sha1": "0d1675576fe17acc1f350a5505177ae08c17299b",
+        "sha512": "241ff7229990305fe5f85521b9c11cd8e2e8d01cb94bbca987aae4d3d9ecbd9115a4b66f618a62d73ef1b569ff8c72434bc1354bbfaf2f69c0e997db034c4883"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/1TmfTuyw/puzzleslib-v21.1.62-mc1.21.1%2Bneoforge.jar",
+    "fileSize": 1450242,
+    "projectId": "QAGBst4M",
+    "manualLink": null
+}

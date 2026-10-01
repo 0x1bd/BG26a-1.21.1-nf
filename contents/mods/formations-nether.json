@@ -1,0 +1,16 @@
+{
+    "name": "Formations Nether",
+    "slug": "formations-nether",
+    "provider": "mr",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "formationsnether-1.0.5b-mc1.21+.jar",
+    "hashes": {
+        "sha1": "6b0e0f58399fc0ba3a69fd1ddda860a534e469c6",
+        "sha512": "4f551944809f6efdf0c09eea78b8b7dcfaba75fea2b07aa84598eab961260984524c2bb7abca9778e878378d3d6f3883448e49f04230966fe32b9a60065fa88f"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/cGvQGRls/versions/Z3DsEJun/formationsnether-1.0.5b-mc1.21%2B.jar",
+    "fileSize": 330916,
+    "projectId": "cGvQGRls",
+    "manualLink": null
+}

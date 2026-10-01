@@ -1,0 +1,16 @@
+{
+    "name": "Entity Culling",
+    "slug": "entityculling",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+    "hashes": {
+        "sha512": "dbb40066796ea54bfe902251ccbe743770e3fa9da555fa762da56b3f0427d4a24d3790a8c224519955185a8d1e17fbad462cd314c3acb998b9fc2c8fec257f7a",
+        "sha1": "2f723582d44b60b41d701a797846eaa45a3fef58"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+    "fileSize": 1510018,
+    "projectId": "NNAgCjsB",
+    "manualLink": null
+}

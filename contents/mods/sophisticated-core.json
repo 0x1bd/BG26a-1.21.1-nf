@@ -1,0 +1,16 @@
+{
+    "name": "Sophisticated Core",
+    "slug": "sophisticated-core",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "sophisticatedcore-1.21.1-1.5.2.2343.jar",
+    "hashes": {
+        "sha1": "86a5cf18608b3feec76c17a8ccac4de36d660fbc",
+        "sha512": "ecaf6db1348d61934cbce15e39bb211d9af33ae7d8f2a1bb770c911f317807c15f67450363c92b9fe178eb12e922842ddc733b54d09784b359b7677b9318b852"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/blXGSmAb/sophisticatedcore-1.21.1-1.5.2.2343.jar",
+    "fileSize": 1809363,
+    "projectId": "nmoqTijg",
+    "manualLink": null
+}

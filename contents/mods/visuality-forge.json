@@ -1,0 +1,16 @@
+{
+    "name": "Visuality: Reforged",
+    "slug": "visuality-forge",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "visuality-forge-3.0.0.jar",
+    "hashes": {
+        "sha512": "f90754b93efff9fc466351446e916b1aac314e8834985f97725fff9a4978bc5519e3497303c7136a2e8b0aedda36ae674858ddfe3f01b63d1886fa906440e373",
+        "sha1": "9786f023733a302b582b7349336e1ab47e93823e"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/z13R7Et1/versions/kOdevgPm/visuality-forge-3.0.0.jar",
+    "fileSize": 132898,
+    "projectId": "z13R7Et1",
+    "manualLink": null
+}

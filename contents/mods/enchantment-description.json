@@ -1,0 +1,16 @@
+{
+    "name": "Enchantment Description",
+    "slug": "enchantment-description",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "Enchantment Description Neoforge 1.0.0 1.21.1.jar",
+    "hashes": {
+        "sha1": "3bc282974598ef93ce39285f58e9bba0d1d1268e",
+        "sha512": "0aa3cb963f8acf06c29d3caaae5cb37ca48d585c3e3160a9bfccb79677a95b64ac7f4c2a46edf37aba838f4177c24a22ac2a2fd0e03d8561b053296a0606c883"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/naXMqs4F/versions/NxZ19VZT/Enchantment%20Description%20Neoforge%201.0.0%201.21.1.jar",
+    "fileSize": 315723,
+    "projectId": "naXMqs4F",
+    "manualLink": null
+}

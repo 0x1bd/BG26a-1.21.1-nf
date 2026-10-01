@@ -1,0 +1,16 @@
+{
+    "name": "Geophilic",
+    "slug": "geophilic",
+    "provider": "mr",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "Geophilic v3.7.mod.jar",
+    "hashes": {
+        "sha512": "7731d6d7f85af0dc9eb232138b1dc1096f083d13a9f3e592b84f6c89a97cca0c642c68d5943e0e63bd35e93002708b945554991f519b754a04c6eec058305c19",
+        "sha1": "4d668978e18b450c030ed4be096fce52d3a9ceca"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/hl5OLM95/versions/5kFV8CEz/Geophilic%20v3.7.mod.jar",
+    "fileSize": 1115993,
+    "projectId": "hl5OLM95",
+    "manualLink": null
+}

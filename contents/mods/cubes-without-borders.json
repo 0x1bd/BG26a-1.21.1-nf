@@ -1,0 +1,16 @@
+{
+    "name": "Cubes Without Borders",
+    "slug": "cubes-without-borders",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "cwb-neoforge-3.0.0+mc1.21.jar",
+    "hashes": {
+        "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343",
+        "sha512": "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar",
+    "fileSize": 81843,
+    "projectId": "ETlrkaYF",
+    "manualLink": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Epic Structures: Dungeons",
+    "slug": "epic-structures-dungeons",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "epic-structures-dungeons-1.2.5.jar",
+    "hashes": {
+        "sha512": "f5a2944b2b648ee161180bcee6199302d5e2fbf934ec7ef6f0839f1277b323e6a19387c7cb61c87569474f224cb410a7f63945b5f610856af8f47a9287216d05",
+        "sha1": "ab762dcaf04fcdb036b698039d7fac12df2773eb"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/t0YT91nL/versions/tcsK0UPh/epic-structures-dungeons-1.2.5.jar",
+    "fileSize": 17378734,
+    "projectId": "t0YT91nL",
+    "manualLink": null
+}

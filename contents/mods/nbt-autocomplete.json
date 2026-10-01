@@ -1,0 +1,16 @@
+{
+    "name": "NBT Autocomplete",
+    "slug": "nbt-autocomplete",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "NBTac-NEOFORGE-1.21.1-2.1.jar",
+    "hashes": {
+        "sha1": "f9c99121820cf2e426debe583557943edd3e9410",
+        "sha512": "b66f78a521a0923534315f4859531877aff3c0c870e207312caed47890f7ca33521ec89ba8668f941062509f7c9bf04cbaf5e25fab71d34f5a125dab85dd1beb"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/UR0ocuEt/versions/2Qvhsbeo/NBTac-NEOFORGE-1.21.1-2.1.jar",
+    "fileSize": 269288,
+    "projectId": "UR0ocuEt",
+    "manualLink": null
+}

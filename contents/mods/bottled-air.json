@@ -1,0 +1,16 @@
+{
+    "name": "Bottled Air",
+    "slug": "bottled-air",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "bottledair-1.21.1-2.5.jar",
+    "hashes": {
+        "sha1": "990a004130cc1761932f80619f43880629f9f368",
+        "sha512": "9dced181fe7a25574af2d29378d885086e0ae3ece6c31115407bacaffd376073da14ed0e4781543c3f5990f38cb05ef90e0bf06cb3cf71ae57944d809994bfd1"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/hvrrNux3/versions/rsW5Tg4Q/bottledair-1.21.1-2.5.jar",
+    "fileSize": 42358,
+    "projectId": "hvrrNux3",
+    "manualLink": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "[EMF] Entity Model Features",
+    "slug": "entity-model-features",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "entity_model_features-3.3.9-1.21-neoforge.jar",
+    "hashes": {
+        "sha1": "022780fc9f221fc87ba507c6542d47c8e1e4889a",
+        "sha512": "566abfd11f6281bb0817e253624e9c7c2aa028f85ac93a24c276a0561fbc5c19a527f8f2ca200477d16cdb362ced9ca6b740b81ad926133188706c6ada0048cc"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/gEOHNhtN/entity_model_features-3.3.9-1.21-neoforge.jar",
+    "fileSize": 641785,
+    "projectId": "4I1XuqiY",
+    "manualLink": null
+}

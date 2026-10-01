@@ -1,0 +1,16 @@
+{
+    "name": "ShineaL's Prehistoric Expansion",
+    "slug": "shineals-prehistoric-expansion",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "shineals_prehistoric_expansion-1.5.2-neoforge-1.21.1.jar",
+    "hashes": {
+        "sha512": "9c0563c975125b67569abc55dfdfdd2bdb3441785e72b3a52991d2f6e54c7fabece1c700c85212a902dee917d5fc5c320b33985ae3cc0babab26e5cef1796312",
+        "sha1": "33c285bf8f28a89d082763f96d025e61757efc14"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/j9t6FnvT/versions/e8mv71Ht/shineals_prehistoric_expansion-1.5.2-neoforge-1.21.1.jar",
+    "fileSize": 7327592,
+    "projectId": "j9t6FnvT",
+    "manualLink": null
+}

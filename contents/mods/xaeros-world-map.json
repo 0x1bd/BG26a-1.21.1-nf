@@ -1,0 +1,16 @@
+{
+    "name": "Xaero's World Map",
+    "slug": "xaeros-world-map",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+    "hashes": {
+        "sha512": "fb14d11d66e0a6441981b18454c86534d8f534cd159ca19fa612950521788d858f37f18fe2093bb9b43ca0a88ae9af578eced5d140ff645a7681d7e452e8a268",
+        "sha1": "82b4ae6c0f2e13f02cbdc1325342909ed083fc24"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/9Ckiihkz/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+    "fileSize": 1422680,
+    "projectId": "NcUtCpym",
+    "manualLink": null
+}

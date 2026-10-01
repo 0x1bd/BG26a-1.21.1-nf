@@ -1,0 +1,16 @@
+{
+    "name": "MES - Moog's End Structures",
+    "slug": "mes-moogs-end-structures",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "MoogsEndStructures-universal-1.21-2.1.1.jar",
+    "hashes": {
+        "sha1": "ef5f57f0e5d06a2f8bec5c073e01ddb061ad477a",
+        "sha512": "5732c98bf3d1e6aa3c76cf23db77301065dd96f060fb9bf85e8af00769bc6a93e213aad7ff79a3116b3cfd5015fe98437bdadf9fdc0dd829eae1759e3c1fee96"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/r4PuRGfV/versions/S7bUhX4n/MoogsEndStructures-universal-1.21-2.1.1.jar",
+    "fileSize": 2285901,
+    "projectId": "r4PuRGfV",
+    "manualLink": null
+}

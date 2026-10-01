@@ -1,0 +1,16 @@
+{
+    "name": "EMIffect",
+    "slug": "emiffect",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "emiffect-neoforge-2.1.6+mc1.21.1.jar",
+    "hashes": {
+        "sha1": "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c",
+        "sha512": "60db5a6c2649d58de5514f851cda63c3bef9eb46a827f1f587cca1fa935fe9f8ef8d0fdf3ed71adb4b58193a72f9ce7ea2e9d4d83e274ee70faa6265b4c80dd6"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/705gWllI/versions/S6Q6duUj/emiffect-neoforge-2.1.6%2Bmc1.21.1.jar",
+    "fileSize": 38160,
+    "projectId": "705gWllI",
+    "manualLink": null
+}

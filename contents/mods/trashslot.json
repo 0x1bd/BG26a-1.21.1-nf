@@ -1,0 +1,16 @@
+{
+    "name": "TrashSlot",
+    "slug": "trashslot",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "trashslot-neoforge-1.21.1-21.1.11.jar",
+    "hashes": {
+        "sha1": "ce09d0128e6a7d225e731e1307f9c1deddac209a",
+        "sha512": "4d3b7e5a103829d4cc5adafa18e05071f59ed1eb16ef198890b615e000aaa2d8447f9651a60c981886cbeb137c96abace32e235527f9d818b06ff7ae473d9cd2"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/vRYk0bv7/versions/HY8Ybozd/trashslot-neoforge-1.21.1-21.1.11.jar",
+    "fileSize": 77535,
+    "projectId": "vRYk0bv7",
+    "manualLink": null
+}

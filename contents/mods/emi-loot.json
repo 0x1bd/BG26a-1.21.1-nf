@@ -1,0 +1,16 @@
+{
+    "name": "EMI Loot",
+    "slug": "emi-loot",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "emi_loot-0.7.9+1.21+neoforge.jar",
+    "hashes": {
+        "sha512": "9c67ff502da7a94ef7707c144deb4ec6472f445e99cc8eab30b77f22d886a86b8793338452fe394296f3132ed4d37271d475af184e3a9519ddebdad1a82eecf7",
+        "sha1": "bd0326eeda721c87a29efd78f9a52f46d572392c"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/qbbO7Jns/versions/QXkODMCT/emi_loot-0.7.9%2B1.21%2Bneoforge.jar",
+    "fileSize": 465870,
+    "projectId": "qbbO7Jns",
+    "manualLink": null
+}

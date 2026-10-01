@@ -1,0 +1,16 @@
+{
+    "name": "Structure Layout Optimizer",
+    "slug": "structure-layout-optimizer",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "structure_layout_optimizer-neoforge-1.0.12.jar",
+    "hashes": {
+        "sha1": "052c31cb9881c04c17d949345539aa8684f474bf",
+        "sha512": "8c38ebd0e221f5bfe887a40ab21caede40cadc90bfc3b8dbbc79888c07faee44d58f12a974f1c5af324c9feceaa2ed04ea62724c6453650c77e1910582914153"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/ayPU0OHc/versions/eTz03Gfd/structure_layout_optimizer-neoforge-1.0.12.jar",
+    "fileSize": 61777,
+    "projectId": "ayPU0OHc",
+    "manualLink": null
+}

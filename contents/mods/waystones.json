@@ -1,0 +1,16 @@
+{
+    "name": "Waystones",
+    "slug": "waystones",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "waystones-neoforge-1.21.1-21.1.46.jar",
+    "hashes": {
+        "sha512": "ca90b58d884d4bc2b08a870484ae7ede397e71d31eaaf01ff2603ad498d584763e099c2094e57031522385339705d2c011ed4910bf36efae688e64935b49ece9",
+        "sha1": "75718161662d9ec957ba22e10e497788ec1687ba"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/6Z6MQ6os/waystones-neoforge-1.21.1-21.1.46.jar",
+    "fileSize": 1223229,
+    "projectId": "LOpKHB2A",
+    "manualLink": null
+}

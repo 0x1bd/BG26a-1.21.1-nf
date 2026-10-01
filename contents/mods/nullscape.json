@@ -1,0 +1,16 @@
+{
+    "name": "Nullscape",
+    "slug": "nullscape",
+    "provider": "mr",
+    "side": "server",
+    "sideOverride": false,
+    "fileName": "Nullscape_1.21.x_v1.2.14.jar",
+    "hashes": {
+        "sha512": "b35a9dfdc7180ca851aea378ee4687e18b3aae717c16870a7762afc67dc0c77598fb2c4a62cb12d6ed0eacf7c9166520e0a3e7dce20da09817065d27e62c8b44",
+        "sha1": "ae8e1cbd5de6cf6f450bb44cd69cd284dad690dd"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/LPjGiSO4/versions/3fv8O3xX/Nullscape_1.21.x_v1.2.14.jar",
+    "fileSize": 355748,
+    "projectId": "LPjGiSO4",
+    "manualLink": null
+}
