@@ -2,8 +2,8 @@
     "name": "Controlify (Controller support)",
     "slug": "controlify",
     "provider": "mr",
-    "side": "both",
-    "sideOverride": false,
+    "side": "client",
+    "sideOverride": true,
     "fileName": "controlify-3.0.1+lts+1.21.1-neoforge.jar",
     "hashes": {
         "sha1": "6d904472e1c95bd9d8b5e7c5421b8db628915e20",
