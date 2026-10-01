@@ -1,0 +1,16 @@
+{
+    "name": "TabTPS",
+    "slug": "tabtps",
+    "provider": "mr",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "tabtps-neoforge-mc1.21.1-1.3.25.jar",
+    "hashes": {
+        "sha1": "230eeb9a43249aa2df98ba2a0208a204ef25eeee",
+        "sha512": "fa38198aedea225ec6aa83cf45b9a6080a7fb96765686f9350b8a46d76a06feac8b9ef47401acc0ffd2c8a965bcc4f5f64e6f3b48bc98c4e63e296877ce90785"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/cUhi3iB2/versions/JkFbz8lE/tabtps-neoforge-mc1.21.1-1.3.25.jar",
+    "fileSize": 2408478,
+    "projectId": "cUhi3iB2",
+    "manualLink": null
+}
