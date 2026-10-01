@@ -1,0 +1,16 @@
+{
+    "name": "Music Disc Maker",
+    "slug": "music-disc-maker",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "music_disc_maker-3.0.5+neoforge-1.21.1.jar",
+    "hashes": {
+        "sha512": "4f9c66a57b2acc5d1fb84869e036e376fddd793ce5decf8d85c9e2b947b13e674775585db4d99215a307e438b5f5e24f98aecd96279478ab28eadf5cdfd0c386",
+        "sha1": "74f2dfd629b3c26754f1ace31888e5e9963452ef"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/mqnazM0E/versions/qwym2WOo/music_disc_maker-3.0.5%2Bneoforge-1.21.1.jar",
+    "fileSize": 35023899,
+    "projectId": "mqnazM0E",
+    "manualLink": null
+}
