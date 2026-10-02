@@ -1,0 +1,16 @@
+{
+    "name": "Create: Nowheel",
+    "slug": "create-nowheel",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "nowheel-2.1.1+1.21.1neoforge.jar",
+    "hashes": {
+        "sha1": "83c6885a3e980ffbd458e89b6e5bcceb410e6840",
+        "sha512": "87e71aa5c7db450c4f42242922cf192537be99ff041ae8c959c219938ddebc06455858693afe9a536c8d7fcfd6fda136a8d0f017c050e4f27d04350b7cb43956"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/c47YxuuI/versions/3NKOvEei/nowheel-2.1.1%2B1.21.1neoforge.jar",
+    "fileSize": 86568,
+    "projectId": "c47YxuuI",
+    "manualLink": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "bg26-whale-fall-fix-0.1.0",
+    "slug": "bg26-whale-fall-fix-0.1.0",
+    "provider": "local",
+    "side": "both",
+    "sideOverride": true,
+    "fileName": "bg26-whale-fall-fix-0.1.0.jar",
+    "hashes": {
+        "sha1": "b11699491557fb214383cf2cc831be8699875419",
+        "sha512": "9baa8807c1e6974c90f3ad44cd1d158df1904ce37b64a7548876a899df089a65fba20ca01d7c2d149dd22cc1be45d381c58a6a14b95705dee6132c7f89a35931"
+    },
+    "downloadUrl": "",
+    "fileSize": 913,
+    "projectId": "b11699491557fb214383cf2cc831be8699875419",
+    "manualLink": null
+}
