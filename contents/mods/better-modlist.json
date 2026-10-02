@@ -1,0 +1,16 @@
+{
+    "name": "Better ModList",
+    "slug": "better-modlist",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "better_modlist-21.1.3.jar",
+    "hashes": {
+        "sha1": "d279c47924772fda79a4248c96f2ef2684f4df15",
+        "sha512": "c4396a06ba681a2d550e014f952cd237f43ab5d88dea46c5b34277a06582e38152027a5199efeeb8af8b4c1ae5f22c186d61b052ba2733eac81d45125b0fa532"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/sbpqhzIG/versions/ORRVBsst/better_modlist-21.1.3.jar",
+    "fileSize": 822592,
+    "projectId": "sbpqhzIG",
+    "manualLink": null
+}
