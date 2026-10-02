@@ -1,0 +1,16 @@
+{
+    "name": "Hybrid API [HAPI]",
+    "slug": "hybrid-api",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "hapi-neoforge-1.21.1-1.1.2.jar",
+    "hashes": {
+        "sha1": "72a7cef3b2feb12c4f02def78a923e954d9ba27a",
+        "sha512": "faba7a389485416738cf9087a0618bd6a4e16b4e8ba15ce3cf05cb1128b2bb3471acd5a410ac070c2f278d12d5f72ad55110933f19680243ec7f5c9015fb5fd7"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/yv9f5EAG/versions/9d3wvikP/hapi-neoforge-1.21.1-1.1.2.jar",
+    "fileSize": 689603,
+    "projectId": "yv9f5EAG",
+    "manualLink": null
+}

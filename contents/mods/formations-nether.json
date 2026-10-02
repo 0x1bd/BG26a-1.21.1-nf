@@ -2,7 +2,7 @@
     "name": "Formations Nether",
     "slug": "formations-nether",
     "provider": "mr",
-    "side": "dedicated-server",
+    "side": "server",
     "sideOverride": true,
     "fileName": "formationsnether-1.0.5b-mc1.21+.jar",
     "hashes": {

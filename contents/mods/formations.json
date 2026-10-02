@@ -2,7 +2,7 @@
     "name": "Formations (Structure Library)",
     "slug": "formations",
     "provider": "mr",
-    "side": "dedicated-server",
+    "side": "server",
     "sideOverride": true,
     "fileName": "formations-1.0.4-neoforge-mc1.21.jar",
     "hashes": {

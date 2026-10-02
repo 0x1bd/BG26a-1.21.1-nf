@@ -2,7 +2,7 @@
     "name": "Dungeons and Taverns",
     "slug": "dungeons-and-taverns",
     "provider": "mr",
-    "side": "dedicated-server",
+    "side": "server",
     "sideOverride": true,
     "fileName": "dungeons-and-taverns-v4.4.4.jar",
     "hashes": {

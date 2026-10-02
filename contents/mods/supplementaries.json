@@ -4,13 +4,13 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "supplementaries-1.21.1-3.9.9-neoforge.jar",
+    "fileName": "supplementaries-neoforge-1.21.1-3.6.7.jar",
     "hashes": {
-        "sha512": "f341d0971e644255c063f0cb363bb93e312f4f005304f8af76d7249c3cbc0c258f415cf6e7bddcdf02115ade9ba9a205ec6d062e2626b414afaef5725667f079",
-        "sha1": "06ed05381a5653d90398dc6ebf3ad1154add6374"
+        "sha512": "b11be30373a7a76826f0a9859e0d69da2fab0f85d627b7b1d78a0ac6e21b7b29b21eff2174a3cb39228b465e2faa17159f9129705bdb2d9d7d44db2f578c5322",
+        "sha1": "a2a0d9bb5170b779863c2743f18c04b0964c9875"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/WrZWfRjP/supplementaries-1.21.1-3.9.9-neoforge.jar",
-    "fileSize": 13548968,
+    "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/GXkI2kmO/supplementaries-neoforge-1.21.1-3.6.7.jar",
+    "fileSize": 13302516,
     "projectId": "fFEIiSDQ",
     "manualLink": null
 }

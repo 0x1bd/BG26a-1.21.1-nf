@@ -2,7 +2,7 @@
     "name": "Geophilic",
     "slug": "geophilic",
     "provider": "mr",
-    "side": "dedicated-server",
+    "side": "server",
     "sideOverride": true,
     "fileName": "Geophilic v3.7.mod.jar",
     "hashes": {

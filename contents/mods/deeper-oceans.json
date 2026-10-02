@@ -2,7 +2,7 @@
     "name": "Deeper Oceans",
     "slug": "deeper-oceans",
     "provider": "mr",
-    "side": "dedicated-server",
+    "side": "server",
     "sideOverride": true,
     "fileName": "deeper-oceans-2.0.1-neoforge-21.1.jar",
     "hashes": {

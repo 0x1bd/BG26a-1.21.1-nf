@@ -4,13 +4,13 @@
     "provider": "mr",
     "side": "client",
     "sideOverride": false,
-    "fileName": "sodium-extra-neoforge-0.9.4+mc1.21.1.jar",
+    "fileName": "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
     "hashes": {
-        "sha1": "75f9c202e8384cb5de039cdcc47d5e1c8fde8fe5",
-        "sha512": "b930a9c6364bdbac42da7175f9fa71360053cd046d2f1e9a99d712e5942299882bfb585e5b661490b791e219b5dd6b9f064fb94f169d7a32a9934c1dc2b85edf"
+        "sha512": "6f7383ef3f4b572c76d3371a7441bc3d625db9d404cf61b249fab018bc3ffd1fa82e735ec21916df3f4072f0927dad3673efbc40bf8d11846c3d6fecc9329bb7",
+        "sha1": "7473bb42753902c639294821af13e9cd9ee735da"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
-    "fileSize": 472060,
+    "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
+    "fileSize": 367047,
     "projectId": "PtjYWJkn",
     "manualLink": null
 }
