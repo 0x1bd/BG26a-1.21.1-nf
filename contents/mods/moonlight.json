@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/t6iFh4M3/moonlight-1.21.1-3.7.0-neoforge.jar",
     "fileSize": 2298394,
     "projectId": "twkfQtEc",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

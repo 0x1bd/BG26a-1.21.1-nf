@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
     "fileSize": 367047,
     "projectId": "PtjYWJkn",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

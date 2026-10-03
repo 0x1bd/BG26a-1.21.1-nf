@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/EIa1eiMm/versions/FpMmigWq/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
     "fileSize": 79200,
     "projectId": "EIa1eiMm",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

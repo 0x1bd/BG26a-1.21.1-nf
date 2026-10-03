@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
     "fileSize": 19123767,
     "projectId": "LNytGWDc",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

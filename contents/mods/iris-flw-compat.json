@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar",
     "fileSize": 907133,
     "projectId": "ndHYMY2K",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

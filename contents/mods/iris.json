@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
     "fileSize": 2438548,
     "projectId": "YL57xq9U",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }
