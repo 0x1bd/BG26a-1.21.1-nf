@@ -1,0 +1,17 @@
+{
+    "name": "Selfexpression: New Edge",
+    "slug": "selfexpression-new-edge",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "selfexpression_new_edge-1.0-neoforge-1.21.1.jar",
+    "hashes": {
+        "sha512": "67ebcea7f47f9c607af06b57e35365c8eb157b14fe869b575894f17f4569ed074018bb8909de389049b1978202bb22e545ad51efec1abe470a361d6f6d643fd9",
+        "sha1": "0a0cae2926da1acc0cf8b6a025933c003011492d"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/HQ1C1y22/versions/hVBarD8e/selfexpression_new_edge-1.0-neoforge-1.21.1.jar",
+    "fileSize": 243725,
+    "projectId": "HQ1C1y22",
+    "manualLink": null,
+    "pinned": false
+}

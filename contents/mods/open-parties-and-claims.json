@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "open-parties-and-claims-neoforge-1.21.1-0.31.6.jar",
+    "fileName": "open-parties-and-claims-neoforge-1.21.1-0.32.7.jar",
     "hashes": {
-        "sha1": "6d0ebc84bbb75322cb0ab45ffef6a54d3bc6adef",
-        "sha512": "6f8f2d570b6f674a9180576524b3ba507a3ad046ff319353cee50738644bf46c03ca460fb7c6880eed76f07eb2a26a983166d2510951202af86b3e120b743181"
+        "sha512": "d4219891785daab5d1182d829b4821c3778392888fb1ef1c45fa8875e8a26cdd52f847b7604a8a15dc8d6b1a21f781e343c216868d4e63d919eb0ab92408f88e",
+        "sha1": "1c564ecb944277993716e2c7fc9d35dc403e515c"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/gF3BGWvG/versions/3i48dTzz/open-parties-and-claims-neoforge-1.21.1-0.31.6.jar",
-    "fileSize": 1826827,
+    "downloadUrl": "https://cdn.modrinth.com/data/gF3BGWvG/versions/qMR7tHTs/open-parties-and-claims-neoforge-1.21.1-0.32.7.jar",
+    "fileSize": 1871092,
     "projectId": "gF3BGWvG",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }

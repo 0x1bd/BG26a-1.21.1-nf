@@ -1,0 +1,17 @@
+{
+    "name": "Selfexpression",
+    "slug": "selfexpression",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "selfexpression-2.22a-neoforge-1.21.1.jar",
+    "hashes": {
+        "sha512": "70e320f9d12fb71482042f663fea2bde5ab363e3f92343a4683968246b37c010251e3e3e0077a6dcb90acba3d094651df246b9be2bd7ebe638cff1c615363d7a",
+        "sha1": "f0dd7e65512daec9ddea0fa54f02c48b4f2d3842"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/yv3OK08E/versions/rkbv62gk/selfexpression-2.22a-neoforge-1.21.1.jar",
+    "fileSize": 6806565,
+    "projectId": "yv3OK08E",
+    "manualLink": null,
+    "pinned": false
+}
