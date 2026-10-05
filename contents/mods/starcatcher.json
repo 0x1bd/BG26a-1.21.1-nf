@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "starcatcher-3.2-NEOFORGE-1.21.1.jar",
+    "fileName": "starcatcher-3.3.4-NEOFORGE-1.21.1.jar",
     "hashes": {
-        "sha512": "dcd1aeb7a4729e22f8d69d374e17cc8421a2409df61be4f29ba31629bfe4c0e54090b6ad100ad467ea63cbfafed2760bf5fe4dc5d1082235f84a7ac574ea1e90",
-        "sha1": "7cd131907bbd665e217b11fc82994ea5669ebe6e"
+        "sha512": "30b4bc9647ed6d922f999a2c2a3c53b8d8792d4d5aff673aec9b8f3c90c466e43dae14f8e84412410f260b797e8a5683f6cfc1682e49dfa56cf6ded1c988ecaa",
+        "sha1": "36b42136db5d1ff03da679bfedcb60d735aa9fdd"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/h2jXvxNR/versions/m1GaDwQN/starcatcher-3.2-NEOFORGE-1.21.1.jar",
-    "fileSize": 4397424,
+    "downloadUrl": "https://cdn.modrinth.com/data/h2jXvxNR/versions/VGkb3gff/starcatcher-3.3.4-NEOFORGE-1.21.1.jar",
+    "fileSize": 4787385,
     "projectId": "h2jXvxNR",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }
