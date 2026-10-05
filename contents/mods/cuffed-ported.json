@@ -1,0 +1,17 @@
+{
+    "name": "Cuffed Ported",
+    "slug": "cuffed-ported",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "Cuffed-PORT-1.21.1-1.3.16.jar",
+    "hashes": {
+        "sha1": "164a5d1f3a7af844189a2fb135d2ac16990db00a",
+        "sha512": "e4e559f31b4298a09ee3f1f84562416ab89f37f91afca2a3b85e1c458922e42fa82968bf2194a0e6feb3c4b7f62b46f211713659af6c88296aebd18ef5145310"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/NQ1C5Ka9/versions/1Q0Oe0kl/Cuffed-PORT-1.21.1-1.3.16.jar",
+    "fileSize": 877312,
+    "projectId": "NQ1C5Ka9",
+    "manualLink": null,
+    "pinned": false
+}
