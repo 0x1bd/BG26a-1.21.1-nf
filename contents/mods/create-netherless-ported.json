@@ -1,0 +1,17 @@
+{
+    "name": "Create: Netherless Ported",
+    "slug": "create-netherless-ported",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "create_netherless-1.21.1-1.0.0.jar",
+    "hashes": {
+        "sha512": "a2e94248c469b676a76eea71bda8bb53141590a7cc914a6b92a1ff7a64e8d688f7c3bbefd067606cec8f7ea04c219da7e7724250aa42654e29003ee3cd05da22",
+        "sha1": "cf5988e358d95cb1902e34a600be3d9f0d95232d"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/HkHqchDm/versions/THMDWGm4/create_netherless-1.21.1-1.0.0.jar",
+    "fileSize": 57142,
+    "projectId": "HkHqchDm",
+    "manualLink": null,
+    "pinned": false
+}

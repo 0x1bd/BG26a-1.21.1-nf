@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "server",
     "sideOverride": false,
-    "fileName": "bottledair-1.21.1-2.5.jar",
+    "fileName": "bottledair-1.21.1-2.6.jar",
     "hashes": {
-        "sha1": "990a004130cc1761932f80619f43880629f9f368",
-        "sha512": "9dced181fe7a25574af2d29378d885086e0ae3ece6c31115407bacaffd376073da14ed0e4781543c3f5990f38cb05ef90e0bf06cb3cf71ae57944d809994bfd1"
+        "sha512": "ac1f4d81b9ad46040e54d3e2fd02905dad541bdc23875d430b1b9d08fbbfd963425846e52340788c4c5119a6bc29279b0b67c0e3ddb0857694cb119c191482cb",
+        "sha1": "082e7098b554f42d081543836245f8c156a9b214"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/hvrrNux3/versions/rsW5Tg4Q/bottledair-1.21.1-2.5.jar",
-    "fileSize": 42358,
+    "downloadUrl": "https://cdn.modrinth.com/data/hvrrNux3/versions/7lOpGEya/bottledair-1.21.1-2.6.jar",
+    "fileSize": 42267,
     "projectId": "hvrrNux3",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }

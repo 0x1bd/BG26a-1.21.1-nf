@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
+    "fileName": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.2.jar",
     "hashes": {
-        "sha1": "4611dc5bb4240333178e14e81f76168f78167448",
-        "sha512": "76ceb60d1058bca79e13c7059dc42f8b230cb480986e1d88b505f958fc3922a00bef463eb267c9b676be053bec1e71806fbc27fb2a41df6dcd9881a0f0711f77"
+        "sha512": "a899ebb6f2c88e99153283f9be865ec624b839247b9422a0ac6db92b941f9981880458b9397998d7fac87611543d4c7fdf3798c6f56efb9631184fd8a0be1dd9",
+        "sha1": "09e5372e2d03fd68d5e9403ed7238d75efacaf52"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/aPEcdSHb/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
-    "fileSize": 20484967,
+    "downloadUrl": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/IaGaE5Tq/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.2.jar",
+    "fileSize": 20493440,
     "projectId": "NTi7d3Xc",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }

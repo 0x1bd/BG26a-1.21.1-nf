@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "server",
     "sideOverride": false,
-    "fileName": "betterbeaconplacement-1.21.1-3.5.jar",
+    "fileName": "betterbeaconplacement-1.21.1-3.7.jar",
     "hashes": {
-        "sha1": "d8385c3fd5f2e3c588bf9a236074dfac41411559",
-        "sha512": "3feaf6ffd856522d1453836569545098da0d86ecedcc15cc8e8105a6a1eea54ff2fccc2b912bcc51e46a5f8c989f834c1239f91c4f504e89e6bb7cfbb4353307"
+        "sha512": "58c06490e6235f6b25494c4b7826d17034e38babcc7679f79296df0c2edb06ef8538e5efb6cad07f55061c3279ee34dcfb154485a9cc2245e5cd681c5e91d921",
+        "sha1": "016c8823a675c7bff004d4a999c31347ab81c2e0"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/GOKA9KZY/versions/EhFxx2g9/betterbeaconplacement-1.21.1-3.5.jar",
-    "fileSize": 46809,
+    "downloadUrl": "https://cdn.modrinth.com/data/GOKA9KZY/versions/pQ5F4IoK/betterbeaconplacement-1.21.1-3.7.jar",
+    "fileSize": 46659,
     "projectId": "GOKA9KZY",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }

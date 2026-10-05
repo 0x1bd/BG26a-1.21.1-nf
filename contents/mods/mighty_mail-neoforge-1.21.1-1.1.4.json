@@ -1,0 +1,17 @@
+{
+    "name": "mighty_mail-neoforge-1.21.1-1.1.4",
+    "slug": "mighty_mail-neoforge-1.21.1-1.1.4",
+    "provider": "local",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "mighty_mail-neoforge-1.21.1-1.1.4.jar",
+    "hashes": {
+        "sha1": "0647bf0f2d5e986dacbaa28a7799d000dd39c8d2",
+        "sha512": "84975b6eab0f3567b66aaf3804f4d1d1727b21887c952f38b7e6bdb08386bb66a0865cf4e13b0dab89373182e59c3afa0e6597a557ddc389e4d62ad736f6208a"
+    },
+    "downloadUrl": "",
+    "fileSize": 224354,
+    "projectId": "0647bf0f2d5e986dacbaa28a7799d000dd39c8d2",
+    "manualLink": null,
+    "pinned": false
+}

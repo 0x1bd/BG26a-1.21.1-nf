@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "hybrid_aquatic-neoforge-1.21.1-1.7.3.jar",
+    "fileName": "hybrid_aquatic-neoforge-1.21.1-1.7.4.jar",
     "hashes": {
-        "sha512": "77526884a075ff99f2b9ea5a821ee3f987f72cdcea80d49938679dd59ef68d92a3519649bcc6c1d02e6b8845b177a86de907aedb1610e3556a39f96671333f8e",
-        "sha1": "139323e28615642db8cd55d712f40f01bfb5edb2"
+        "sha1": "9feffbffb1ce1a249b2002b5480ab9af56922aa6",
+        "sha512": "c71f952db5416b019007c71175c151c443a1724acce20e1a0ed7be9e4c88a68061b5cf18d57625414941928e5a21ac1f141ca922cc45ff627ecad9039e5f2a2b"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/HH4FjUqN/versions/WoaSrx48/hybrid_aquatic-neoforge-1.21.1-1.7.3.jar",
-    "fileSize": 7387919,
+    "downloadUrl": "https://cdn.modrinth.com/data/HH4FjUqN/versions/jdOU7Pzu/hybrid_aquatic-neoforge-1.21.1-1.7.4.jar",
+    "fileSize": 7338389,
     "projectId": "HH4FjUqN",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }

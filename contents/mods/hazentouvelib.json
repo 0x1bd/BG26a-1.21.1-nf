@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "hazentouvelib-1.0.5.jar",
+    "fileName": "hazentouvelib-1.0.9.jar",
     "hashes": {
-        "sha1": "a6e4d20818bc5f9570de0e726316b22e90998946",
-        "sha512": "97f407796d997374e353a61aab08785f6034e488d950d5396163291e98148d9f788e2bfbaa664b73ed8acaef393a395c479b133eebb04b88c258289181c4ff69"
+        "sha512": "b7fdfe137ba0fd49ddea00861853e5e63f42742b89d855cbe3ce87b5b62cbeb944dedc070b5ba859fdad6cb2ce10f37c13373b2e660a8150b14119623dd59816",
+        "sha1": "b5d68711babb604e368b918683eb89a4d1492077"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/nZaIUw7C/versions/5AvmMUuk/hazentouvelib-1.0.5.jar",
-    "fileSize": 309297,
+    "downloadUrl": "https://cdn.modrinth.com/data/nZaIUw7C/versions/zSqYdmPI/hazentouvelib-1.0.9.jar",
+    "fileSize": 559849,
     "projectId": "nZaIUw7C",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }
