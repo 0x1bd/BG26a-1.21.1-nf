@@ -4,14 +4,14 @@
     "provider": "mr",
     "side": "client",
     "sideOverride": false,
-    "fileName": "polytone-1.21-5.0.1-neoforge.jar",
+    "fileName": "polytone-1.21-4.5.3-neoforge.jar",
     "hashes": {
-        "sha512": "bfa75ce96855c10c67ef636b5645c6a2e03365bce2eeb38ff50b1b98908d82a0baea204796976088c109ba0f0f8294967fab8624a965aa0c3d54bb4efbefae8c",
-        "sha1": "0b40a9ebda0b96f72af717bfa020468498005afe"
+        "sha512": "726b5476c6fb3744af4418afdefaa655a555e70d3e03aafc7f81d2bea878d1c2dea0d61ac0854b0cd4627a872a93020dd1c643bf4e16f02e656bd8fdbf6b5215",
+        "sha1": "8410b11846c7a45f73f8c5ae613ac92bfc8fd733"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/cbVEfkjU/polytone-1.21-5.0.1-neoforge.jar",
-    "fileSize": 1748385,
+    "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/ROLbT0WQ/polytone-1.21-4.5.3-neoforge.jar",
+    "fileSize": 1643364,
     "projectId": "3qAYkBMB",
     "manualLink": null,
-    "pinned": false
+    "pinned": true
 }

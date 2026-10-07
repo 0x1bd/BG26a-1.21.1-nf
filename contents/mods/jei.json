@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "jei-1.21.1-neoforge-19.51.0.418.jar",
+    "fileName": "jei-1.21.1-neoforge-19.57.0.451.jar",
     "hashes": {
-        "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
-        "sha512": "a6ca3abc3080f6f41033a77cb955fefe9f9ebae795c33546227f555b2d31e8d4131cc705126d14a3fbabb31097fc0e876dc0bbeb05ad907a1b796f21e57527bf"
+        "sha1": "d639d83bf108b258e722a53f40a41a69e83f8ca6",
+        "sha512": "fe1f0d431135e91123e3b2acb33ff7d3e3690520c797fee5976d08f399052cba35bc79b8a3f425e431b97a9651e160d8e22c9a2502d80730f28ba5ae5467b31c"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ufHUqt9b/jei-1.21.1-neoforge-19.51.0.418.jar",
-    "fileSize": 1804792,
+    "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RI8WCow6/jei-1.21.1-neoforge-19.57.0.451.jar",
+    "fileSize": 2253017,
     "projectId": "u6dRKJwZ",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }
