@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "azurelib-neo-1.21.1-3.1.14.jar",
+    "fileName": "azurelib-neo-1.21.1-3.1.17.jar",
     "hashes": {
-        "sha512": "7869ddd2bb62a520e63c459b7515cace8fb5143cbddd19025d9bfe565a2f0173c395d50a7d54200fb9c1e6f065cc9080404ae92a184327e504232c60019ac0f4",
-        "sha1": "7393be3604ad870c89f47e3ef765fd3d5d7a0530"
+        "sha1": "7f81245bf1aaa3a88406517e666a013f0e6ddf21",
+        "sha512": "fd89cea7a073406d451ea5b0c18421bbb6a4a7084e770996f9bc675ff0b9c507b914db48def5cbe1f4642cc5eb246cae8ab31fbbd4f5e23d9a0eb7ab8ab54d5c"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/7zlUOZvb/versions/XFIIUdPG/azurelib-neo-1.21.1-3.1.14.jar",
-    "fileSize": 913008,
+    "downloadUrl": "https://cdn.modrinth.com/data/7zlUOZvb/versions/InpTe6Sy/azurelib-neo-1.21.1-3.1.17.jar",
+    "fileSize": 960773,
     "projectId": "7zlUOZvb",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }

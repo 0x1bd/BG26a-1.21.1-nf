@@ -1,0 +1,17 @@
+{
+    "name": "Athena",
+    "slug": "athena-ctm",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "athena-neoforge-1.21.1-4.0.6.jar",
+    "hashes": {
+        "sha512": "ab40a306a26ce834daae921a1e87768cd2538a4bfe27a4480f97af854084cc334e7416b1bd0b7583834a32a86951283f29fd4b1df7b98a967a6b26a3ec05e2cf",
+        "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar",
+    "fileSize": 99944,
+    "projectId": "b1ZV3DIJ",
+    "manualLink": null,
+    "pinned": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Sophisticated JEI Index",
+    "slug": "sophisticated-jei-index",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "sophisticated_jei_index-1.2.3+1.21.1.jar",
+    "hashes": {
+        "sha512": "bf65d4e9ea4b75310d79d8883c560b82c097f2a280157848dfe5f9657db3b7756e4afd985c96226e08a5930ca7a0bda4ccdb133333d3ce5d1ea5363dfc0fc4ef",
+        "sha1": "0b32bc2fef551923b37356e747d6eca835e521d5"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/u7Rbf90L/versions/ib6a58FO/sophisticated_jei_index-1.2.3%2B1.21.1.jar",
+    "fileSize": 109752,
+    "projectId": "u7Rbf90L",
+    "manualLink": null,
+    "pinned": false
+}

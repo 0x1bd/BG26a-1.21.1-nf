@@ -4,13 +4,14 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "KotlinLangForge-2.14.1-k2.4.20-3.0+neoforge.jar",
+    "fileName": "KotlinLangForge-2.15.0-k2.4.20-3.0+neoforge.jar",
     "hashes": {
-        "sha512": "8d6faf1fa623529e794fb0429b96f71965843ea1876262c26cecf4fe17dd6e64334498f984cca487e3083881f0e917a26af3862b72e85a2d0d5a7225104355da",
-        "sha1": "1a68ab7829e03b2f9ef59d4d2d58ac4c5be74ffc"
+        "sha1": "4f3773fb7cee76172bf7f0bab0a0d82e20432805",
+        "sha512": "a204bdac9bbc1bfcde8aed8acbd47378a1d88f58ca08bfb889205bdc749246fbeba86c92181cc875f7cec6082fb9c2fbfc059cbfef40ab60681ab823dba89a1a"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/1vrSzlao/versions/SRMod41B/KotlinLangForge-2.14.1-k2.4.20-3.0%2Bneoforge.jar",
-    "fileSize": 8214901,
+    "downloadUrl": "https://cdn.modrinth.com/data/1vrSzlao/versions/o2lhbATE/KotlinLangForge-2.15.0-k2.4.20-3.0%2Bneoforge.jar",
+    "fileSize": 8222552,
     "projectId": "1vrSzlao",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": false
 }
