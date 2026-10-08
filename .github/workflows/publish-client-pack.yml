@@ -18,6 +18,9 @@ jobs:
           repo: 0x1bd/pakmc
           file: pakmc
 
+      - name: Grant executable permissions:
+        run: chmod +x pakmc
+        
       - name: Build MRpack
         run: ./pakmc build client
 
