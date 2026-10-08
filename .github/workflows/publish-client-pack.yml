@@ -1,0 +1,29 @@
+name: Build Client MRpack
+
+on: push
+
+permissions:
+  contents: read
+
+jobs:
+  build-client-pack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch pakmc binary
+        uses: charlieegan3/fetch-gh-release-binary@0.3.2
+        with:
+          owner: 0x1bd
+          repo: pakmc
+
+      - name: Build MRpack
+        run: pakmc build client
+
+      - name: Upload MRpack artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: client-mrpack
+          path: '**/*.mrpack'
+          if-no-files-found: error
