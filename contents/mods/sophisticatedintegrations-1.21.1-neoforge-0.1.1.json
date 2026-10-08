@@ -1,0 +1,17 @@
+{
+    "name": "sophisticatedintegrations-1.21.1-neoforge-0.1.1",
+    "slug": "sophisticatedintegrations-1.21.1-neoforge-0.1.1",
+    "provider": "local",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "sophisticatedintegrations-1.21.1-neoforge-0.1.1.jar",
+    "hashes": {
+        "sha1": "4b2d90ed8515f96e22702543096d13f6e18ae206",
+        "sha512": "5beabb0c74e6114649b9fa4f6069109ede1a2452110a9d2aa70ef10f3bf638725e8a82562b91921328a627f7b4e8cc349da6af4bc6dd23624f09ebd55ba3b5f5"
+    },
+    "downloadUrl": "",
+    "fileSize": 83194,
+    "projectId": "4b2d90ed8515f96e22702543096d13f6e18ae206",
+    "manualLink": null,
+    "pinned": false
+}
