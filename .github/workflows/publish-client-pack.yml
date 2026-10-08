@@ -19,7 +19,7 @@ jobs:
           file: pakmc
 
       - name: Build MRpack
-        run: pakmc build client
+        run: ./pakmc build client
 
       - name: Upload MRpack artifact
         uses: actions/upload-artifact@v4
