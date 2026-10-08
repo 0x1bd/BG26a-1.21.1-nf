@@ -13,10 +13,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch pakmc binary
-        uses: charlieegan3/fetch-gh-release-binary@0.3.2
+        uses: dsaltares/fetch-gh-release-asset@1.1.2
         with:
-          owner: 0x1bd
-          repo: pakmc
+          repo: 0x1bd/pakmc
+          file: pakmc
 
       - name: Build MRpack
         run: pakmc build client
