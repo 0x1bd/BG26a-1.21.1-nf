@@ -1,0 +1,17 @@
+{
+    "name": "Create Aeronautics x Curios API Compat",
+    "slug": "create-aeronautics-x-curios-api-compat",
+    "provider": "cf",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "createaeronauticscurios-neoforge-1.21.1-2.2.jar",
+    "hashes": {
+        "sha512": "b1ef38a5e9492f7b9295d8d2c4535e74e058d6c4b96fbfc8a5d8f37039f39a220e5ec162754b90ec8f2245a82c6b3ec726e6e706e0f11149ffd620ba69861f98",
+        "sha1": "ded927b94810ff89791e1e57bcd20b468bd98a9f"
+    },
+    "downloadUrl": "https://mediafilez.forgecdn.net/files/8547/39/createaeronauticscurios-neoforge-1.21.1-2.2.jar",
+    "fileSize": 44697,
+    "projectId": "1532334",
+    "manualLink": "https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/files/8547039",
+    "pinned": true
+}

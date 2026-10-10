@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
     "fileSize": 774220,
     "projectId": "gvQqBUqZ",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

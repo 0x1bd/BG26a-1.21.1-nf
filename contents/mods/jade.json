@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
     "fileSize": 726853,
     "projectId": "nvQzSEkH",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

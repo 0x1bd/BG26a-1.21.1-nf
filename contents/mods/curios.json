@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
     "fileSize": 410690,
     "projectId": "vvuO3ImH",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }

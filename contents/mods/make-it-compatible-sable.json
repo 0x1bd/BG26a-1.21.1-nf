@@ -1,0 +1,17 @@
+{
+    "name": "Make it Compatible: Sable",
+    "slug": "make-it-compatible-sable",
+    "provider": "cf",
+    "side": "both",
+    "sideOverride": true,
+    "fileName": "make-it-compatible-sable-1.1.1.jar",
+    "hashes": {
+        "sha512": "66477b9fd94369394637a07481bcba7a63bb03ccb03581fc4feb13777fce28c6cb1fc1d40bbbc76c4c3aab3820d30bf0341a7c71a91853ad9f98a6eafd64a55e",
+        "sha1": "9a1c5aaca37fb97377758c817770ef03b1385c06"
+    },
+    "downloadUrl": "https://mediafilez.forgecdn.net/files/8999/456/make-it-compatible-sable-1.1.1.jar",
+    "fileSize": 159396,
+    "projectId": "1606907",
+    "manualLink": "https://www.curseforge.com/minecraft/mc-mods/sable-make-it-compatible/files/8999456",
+    "pinned": true
+}

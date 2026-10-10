@@ -1,0 +1,17 @@
+{
+    "name": "Scalable Lux x Sable Compat",
+    "slug": "scalable-lux-x-sable-compat",
+    "provider": "cf",
+    "side": "both",
+    "sideOverride": true,
+    "fileName": "sablescalablelux-1.21.1-NeoForge-1.0.0.jar",
+    "hashes": {
+        "sha512": "b2fe79a45cb9a1904f9c6e69e66906a2de6c7f8e70e962f05834cf948e8362590537a6ffac437f5863297c346a14380504222dba4dabd3487ba1e630a9eb77ea",
+        "sha1": "69938340b9747c6c46f94fb6882f8a8dc76dcf30"
+    },
+    "downloadUrl": "https://mediafilez.forgecdn.net/files/8806/665/sablescalablelux-1.21.1-NeoForge-1.0.0.jar",
+    "fileSize": 12557,
+    "projectId": "1681511",
+    "manualLink": "https://www.curseforge.com/minecraft/mc-mods/scalable-lux-x-sable-compat/files/8806665",
+    "pinned": true
+}

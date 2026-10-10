@@ -12,5 +12,6 @@
     "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/6Z6MQ6os/waystones-neoforge-1.21.1-21.1.46.jar",
     "fileSize": 1223229,
     "projectId": "LOpKHB2A",
-    "manualLink": null
+    "manualLink": null,
+    "pinned": true
 }
