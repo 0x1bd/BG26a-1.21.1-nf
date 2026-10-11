@@ -1,0 +1,16 @@
+{
+    "name": "Iron's Spells x Aeronautics Compat",
+    "slug": "irons-spells-n-spellbooks-aeronautics",
+    "provider": "cf",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "ironssablecompat-1.0.4.jar",
+    "hashes": {
+        "sha1": "8cfe21160b4ee0ddd70659620181bf0313f8470b"
+    },
+    "downloadUrl": "https://edge.forgecdn.net/files/8284/717/ironssablecompat-1.0.4.jar",
+    "fileSize": 65043,
+    "projectId": "1544353",
+    "manualLink": null,
+    "pinned": false
+}
