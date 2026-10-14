@@ -1,0 +1,17 @@
+{
+    "name": "Create Encased",
+    "slug": "create-encased",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "Create Encased-1.21.1-1.9.0-ht3.jar",
+    "hashes": {
+        "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274",
+        "sha512": "ed27f640b2b30546ab2e5d8d56e6291b559ae76b1fe48b1521c0b9f10c238282a73a44e5781c71fc58088e6c8526ad5c01cf5ef54fadf5640d118ae53d8a67d4"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/hSSqdyU1/versions/t6MATlU9/Create%20Encased-1.21.1-1.9.0-ht3.jar",
+    "fileSize": 3110804,
+    "projectId": "hSSqdyU1",
+    "manualLink": null,
+    "pinned": false
+}
