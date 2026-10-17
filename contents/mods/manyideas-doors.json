@@ -1,0 +1,17 @@
+{
+    "name": "ManyIdeas Doors",
+    "slug": "manyideas-doors",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "ManyIdeasDoors-1.21.1-2.0.2.jar",
+    "hashes": {
+        "sha1": "fb6c906458a63ab0a94d1fcbdabf8d2b120640e5",
+        "sha512": "80059ecbf39ba63adeaa8872316cda0aed6391e7e0443fd3f7f8e8eb83dfb9b1ff7723bd0b6ee03b67699cdd094429b1001f8ed61229fee20d8faceeec02714c"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/B4U5vxjd/versions/JBynegr7/ManyIdeasDoors-1.21.1-2.0.2.jar",
+    "fileSize": 3386453,
+    "projectId": "B4U5vxjd",
+    "manualLink": null,
+    "pinned": false
+}
