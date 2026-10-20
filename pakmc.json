@@ -4,5 +4,7 @@
     "loader": "neoforge",
     "version": "1.2.3",
     "author": "kvxd",
-    "curseForgeApiKey": null
+    "curseForgeApiKey": null,
+    "loaderVersion": "21.1.259",
+    "loaderPinned": true
 }
