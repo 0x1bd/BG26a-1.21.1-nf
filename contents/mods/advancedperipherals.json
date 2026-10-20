@@ -4,13 +4,13 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": true,
-    "fileName": "AdvancedPeripherals-1.21.1-0.7.62b.jar",
+    "fileName": "AdvancedPeripherals-1.21.1-0.8.2a.jar",
     "hashes": {
-        "sha512": "9323762933ec9d61f229677401019fb1f4ddb5a8bdd15a69a1746c9a7186333aa29b2025abd381736bdf89505b449697bb96db69d8a50c39b430d6ef1efe689b",
-        "sha1": "fcbd66eb380e2712c0d00c1c7fb1c55bf0cdc470"
+        "sha1": "94bf731db54b6ca717b1269d2e6a3ff9c17713df",
+        "sha512": "c25a6ca7ad7f09c3f6bb91cf319e0a2a6701b1b1e9fd2c61e4b9f770d6cc64907f6b7919540432dbdebb6599b8d745e709fb4d9200cf28b02f246c879bce5e8e"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/SOw6jD6x/versions/G45Z1XQB/AdvancedPeripherals-1.21.1-0.7.62b.jar",
-    "fileSize": 936602,
+    "downloadUrl": "https://cdn.modrinth.com/data/SOw6jD6x/versions/fxjzpAbL/AdvancedPeripherals-1.21.1-0.8.2a.jar",
+    "fileSize": 1681255,
     "projectId": "SOw6jD6x",
     "manualLink": null,
     "pinned": false
