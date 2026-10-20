@@ -1,0 +1,17 @@
+{
+    "name": "chorus-staff-sable-fix",
+    "slug": "chorus-staff-sable-fix",
+    "provider": "local",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "chorus-staff-sable-fix.jar",
+    "hashes": {
+        "sha1": "936a34fb8d4ca0b5940480694aae894fa8f4428a",
+        "sha512": "d0141725552a3eda527a753de9c98b46208610b4d46083a4d648af4a0f57b8499bc8c8a7d5d6a1cc9fee00dbbd741daf9e450f20eb5d409cecf3f9f55b42e9dd"
+    },
+    "downloadUrl": "",
+    "fileSize": 4280,
+    "projectId": "936a34fb8d4ca0b5940480694aae894fa8f4428a",
+    "manualLink": null,
+    "pinned": false
+}
