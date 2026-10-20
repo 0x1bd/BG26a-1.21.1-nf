@@ -1,0 +1,17 @@
+{
+    "name": "autocraft-recipes",
+    "slug": "autocraft-recipes",
+    "provider": "local",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "autocraft-recipes.jar",
+    "hashes": {
+        "sha1": "46c0e3571a5f2880b1af9d82f2dae105422682a2",
+        "sha512": "1ba52a6e79d4275a40b455c8701d5c0c5d91f0a9fc08de9a5b1c3566620184ee840deb4fc232fbeb45844b25003ddd4da40c4b92201f3f01405b4f639c414df6"
+    },
+    "downloadUrl": "",
+    "fileSize": 11873,
+    "projectId": "46c0e3571a5f2880b1af9d82f2dae105422682a2",
+    "manualLink": null,
+    "pinned": false
+}
