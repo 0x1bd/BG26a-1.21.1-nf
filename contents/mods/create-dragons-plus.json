@@ -1,0 +1,17 @@
+{
+    "name": "Create: Dragons Plus",
+    "slug": "create-dragons-plus",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "CreateDragonsPlus-1.11.9.jar",
+    "hashes": {
+        "sha1": "67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb",
+        "sha512": "43299e49afe7132515aa8ad545b8c9566d90f12cfb39456b3d6e1ebc8e03f05787fbc420e7cc9495df4d6b585d13e7a4c4c7385f82f20aeb829c9491b725af53"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
+    "fileSize": 1085674,
+    "projectId": "dzb1a5WV",
+    "manualLink": null,
+    "pinned": false
+}

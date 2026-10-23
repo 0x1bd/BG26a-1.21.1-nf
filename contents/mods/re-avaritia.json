@@ -1,0 +1,17 @@
+{
+    "name": "Re:Avaritia",
+    "slug": "re-avaritia",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "Re-Avaritia-neoforge-1.21.1-1.4.2-release.jar",
+    "hashes": {
+        "sha1": "97d344f2b455f96d2038a1f833eac6d7bc3dbbac",
+        "sha512": "cdea0ad05932415670d75066792a96808ea6c9eea1bf4033790669af3b022eb5426df0ff0df6eba72205624fd96a15e16a051711722ce7a9f626e091db10b0a4"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/QeB3NRC5/versions/uY1x1LTC/Re-Avaritia-neoforge-1.21.1-1.4.2-release.jar",
+    "fileSize": 3764805,
+    "projectId": "QeB3NRC5",
+    "manualLink": null,
+    "pinned": false
+}

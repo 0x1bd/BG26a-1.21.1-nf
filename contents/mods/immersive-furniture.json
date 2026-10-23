@@ -1,0 +1,17 @@
+{
+    "name": "Immersive Furniture",
+    "slug": "immersive-furniture",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "immersive_furniture-neoforge-0.3.4+1.21.1.jar",
+    "hashes": {
+        "sha512": "82115ebe86ed4fb5c2130cf2dc1cb558c63da5a987e887753f8a1f5f745f3d7eef0564c04a87753dae0e92f9df5eba33de505820e0672edf2f446333f2439ea4",
+        "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/SvN6UGeF/versions/PQeXT1hV/immersive_furniture-neoforge-0.3.4%2B1.21.1.jar",
+    "fileSize": 1022045,
+    "projectId": "SvN6UGeF",
+    "manualLink": null,
+    "pinned": false
+}

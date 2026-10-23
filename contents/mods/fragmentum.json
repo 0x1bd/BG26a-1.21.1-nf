@@ -4,13 +4,13 @@
     "provider": "mr",
     "side": "both",
     "sideOverride": false,
-    "fileName": "fragmentum-5.2.0+1.21.1-neoforge.jar",
+    "fileName": "fragmentum-5.3.0+1.21.1-neoforge.jar",
     "hashes": {
-        "sha512": "f8db7ba5e83a3bd9957ae17de4a11f3abb934a164f474e272dcf151b2424b81d575145135f0763276c5c3e134f72bfa0e73bd41bbece0dcb19366e631903594f",
-        "sha1": "b4b7aed92ff5bfd61c2d0b0a894268d03c3f8f8c"
+        "sha512": "cc756d18a0ea903e32c1bd533620283c3b0fc4387d0d1df68cd399e964944493f4a702860b1035d3fc2f83446e6b0ce705a71dcd109322a40fe0ed49a8fa5cdd",
+        "sha1": "e5593d630ea752c60d5be3f2f8dfff5ee2193f92"
     },
-    "downloadUrl": "https://cdn.modrinth.com/data/49C5QgTK/versions/Kh6I6ckR/fragmentum-5.2.0%2B1.21.1-neoforge.jar",
-    "fileSize": 7798859,
+    "downloadUrl": "https://cdn.modrinth.com/data/49C5QgTK/versions/AyL8gHWw/fragmentum-5.3.0%2B1.21.1-neoforge.jar",
+    "fileSize": 7815329,
     "projectId": "49C5QgTK",
     "manualLink": null,
     "pinned": false

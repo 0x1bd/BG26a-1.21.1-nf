@@ -1,0 +1,17 @@
+{
+    "name": "Create Crafts & Additions",
+    "slug": "createaddition",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "createaddition-1.7.2.jar",
+    "hashes": {
+        "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+        "sha512": "f3a3ddb5600189da818fc71ea659d17f0d1097c5ad664433eed400b3ecc67d0f9305b348e5b7c5fd872d7a6e51330c7158b3181e77192c576c205a74dd0298ff"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+    "fileSize": 1772844,
+    "projectId": "kU1G12Nn",
+    "manualLink": null,
+    "pinned": false
+}

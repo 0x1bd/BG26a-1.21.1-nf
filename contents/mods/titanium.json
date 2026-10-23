@@ -1,0 +1,17 @@
+{
+    "name": "Titanium",
+    "slug": "titanium",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "titanium-1.21-4.0.51.jar",
+    "hashes": {
+        "sha512": "59a1470b5b3e103f52fa9c0f2f334bb3b28cdbaba74c95234528a40a558596d598227968e5812502a41a9ee24993b00c748cee913abae8fbb4ab7df79d04ab29",
+        "sha1": "aeb581ba5bdaac3bf3d48bee78488151e9c3dfd1"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/1Ro7m06l/versions/vbCgpf68/titanium-1.21-4.0.51.jar",
+    "fileSize": 608070,
+    "projectId": "1Ro7m06l",
+    "manualLink": null,
+    "pinned": false
+}

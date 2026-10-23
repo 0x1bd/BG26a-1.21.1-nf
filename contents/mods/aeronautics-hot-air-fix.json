@@ -1,0 +1,17 @@
+{
+    "name": "Aeronautics Hot Air Fix",
+    "slug": "aeronautics-hot-air-fix",
+    "provider": "mr",
+    "side": "client",
+    "sideOverride": false,
+    "fileName": "aeronauticshotairfix-1.1.1.jar",
+    "hashes": {
+        "sha512": "249cac906da0194948c6c3713f97a40ee83307b2e4de2922e63d7aa19923dea690dfe5744b7be8785e92b85abdfcfff9756f66e2a234f7c417f781c0bd43708d",
+        "sha1": "03aea7e35d77d192661dc1bcbf21d389480d84cc"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/Qhi65c7K/versions/8ka8XR8j/aeronauticshotairfix-1.1.1.jar",
+    "fileSize": 342760,
+    "projectId": "Qhi65c7K",
+    "manualLink": null,
+    "pinned": false
+}

@@ -6,12 +6,12 @@
     "sideOverride": false,
     "fileName": "sophisticatedintegrations.jar",
     "hashes": {
-        "sha1": "2dde2c2727cde7a58ad15bcb7eee9f3a3b77b0a9",
-        "sha512": "c60f1dcfa8fe89001e1cd0ab1bff17a33dd2e5ee3832404ee6bc609a11bcfad771c5bd59cd67a91dd87b66d0d830ac2813f90dccee56b1e6c82f3efae6c3c9c5"
+        "sha1": "55ab83035897340da3a4ca46c2a5634f21d74c84",
+        "sha512": "a6018d50b120d095ff5a089c40b689b373d4314d4e15f0c6ac3722f7d2012de1836b75254758040a1df6f9a08c105d56f551d25b61f90dbcfe3ef5b7b7d54a42"
     },
     "downloadUrl": "",
-    "fileSize": 155961,
-    "projectId": "2dde2c2727cde7a58ad15bcb7eee9f3a3b77b0a9",
+    "fileSize": 155646,
+    "projectId": "55ab83035897340da3a4ca46c2a5634f21d74c84",
     "manualLink": null,
     "pinned": false
 }
