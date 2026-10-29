@@ -2,9 +2,9 @@
     "name": "BG26a-1.21.1-nf",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "author": "kvxd",
     "curseForgeApiKey": null,
-    "loaderVersion": "21.1.259",
+    "loaderVersion": "21.1.252",
     "loaderPinned": true
 }

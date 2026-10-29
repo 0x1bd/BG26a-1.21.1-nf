@@ -1,0 +1,17 @@
+{
+    "name": "Applied Create",
+    "slug": "applied-create",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "appliedcreate-1.21.1-1.1.8.jar",
+    "hashes": {
+        "sha1": "0c2ba09e5828c6389ce1634d8e48313891a45015",
+        "sha512": "916dd94c82669afee2413a1f7e6bac8054d65e81ed4895f81ad8c2cd131964fcfba4520f33e2fd8f4a3b92f72ad08effa15e7c40456089d72dc863de1de31d01"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/XmZgyZzj/versions/rqrW3P8C/appliedcreate-1.21.1-1.1.8.jar",
+    "fileSize": 442774,
+    "projectId": "XmZgyZzj",
+    "manualLink": null,
+    "pinned": false
+}

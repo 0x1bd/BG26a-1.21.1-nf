@@ -6,12 +6,12 @@
     "sideOverride": true,
     "fileName": "autocraft-recipes.jar",
     "hashes": {
-        "sha1": "06e3faa1b78552a6fe295f873ae0d0ad692b6ebe",
-        "sha512": "1af07a434c72180362c71c4ffc631f8f7f23d294bdd8293bc8fcf3a4a6ae1aa464576c3399faf4d0401e2f30179a44ec919976e19182efcf8094247414f52faf"
+        "sha1": "b5806631e6274de9701143198e57777b7ca95e74",
+        "sha512": "f3c780ae18d0e7edab5daa91ae21e329941186521bf73d486f9be49331a883c23ee60356842db3a1aa53c53e02ab75dd1ea291b88b5cb811b2310094af42a253"
     },
     "downloadUrl": "",
-    "fileSize": 37984,
-    "projectId": "06e3faa1b78552a6fe295f873ae0d0ad692b6ebe",
+    "fileSize": 69409,
+    "projectId": "b5806631e6274de9701143198e57777b7ca95e74",
     "manualLink": null,
     "pinned": false
 }

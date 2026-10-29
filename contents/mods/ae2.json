@@ -1,0 +1,17 @@
+{
+    "name": "Applied Energistics 2",
+    "slug": "ae2",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "appliedenergistics2-19.2.18.jar",
+    "hashes": {
+        "sha1": "bcd04bc7f181b2ffa314625f284c8eca6fee7fe4",
+        "sha512": "39bc4cf733a4321631e2637a1a6dfd3527135fdac1b572534e6fd1f9eab7a6dd92d56c5fa066263c95149c9b20cabdd1fd3dff80bea515381b1d2d754cad26c3"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/XxWD5pD3/versions/KDnFUmMm/appliedenergistics2-19.2.18.jar",
+    "fileSize": 8236552,
+    "projectId": "XxWD5pD3",
+    "manualLink": null,
+    "pinned": false
+}

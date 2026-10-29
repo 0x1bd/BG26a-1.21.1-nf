@@ -1,0 +1,17 @@
+{
+    "name": "ME Requester",
+    "slug": "merequester",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "merequester-neoforge-1.21.1-1.5.0.jar",
+    "hashes": {
+        "sha512": "59df36d4af6248a391463847f24062cb5197837df53eb53e9ba635f1e1d1045301c901103d0d336c416dbac4d0f5afc39679e678756d85cae7b61dfcf98caace",
+        "sha1": "4c651fa3934775bb4f3e2e8768d39b543f4a3cae"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/E6BFl96N/versions/hLs5MFnR/merequester-neoforge-1.21.1-1.5.0.jar",
+    "fileSize": 186826,
+    "projectId": "E6BFl96N",
+    "manualLink": null,
+    "pinned": false
+}

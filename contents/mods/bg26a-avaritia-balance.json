@@ -1,0 +1,17 @@
+{
+    "name": "bg26a-avaritia-balance",
+    "slug": "bg26a-avaritia-balance",
+    "provider": "local",
+    "side": "dedicated-server",
+    "sideOverride": true,
+    "fileName": "bg26a-avaritia-balance.jar",
+    "hashes": {
+        "sha1": "4c6ac2bc8a3ef6d0741a3998baa3a32957f74494",
+        "sha512": "25d19eddc937421f0bac00d8a730213028f15abff44251b0e1bf0fa28e9e54fbc6a42ffea2fa2d65bf89b858012b5131019f74ebf4c7039c49073856a12883e6"
+    },
+    "downloadUrl": "",
+    "fileSize": 55697,
+    "projectId": "4c6ac2bc8a3ef6d0741a3998baa3a32957f74494",
+    "manualLink": null,
+    "pinned": false
+}

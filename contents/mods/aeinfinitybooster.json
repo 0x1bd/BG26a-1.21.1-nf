@@ -1,0 +1,17 @@
+{
+    "name": "AEInfinityBooster",
+    "slug": "aeinfinitybooster",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "aeinfinitybooster-neoforge-2.1.0+mc1.21.1.jar",
+    "hashes": {
+        "sha512": "ae9911f6c3df41ed6101a3720e887c315afdaa6bb8ec93afd32863fe6da220df156184e68645ca8a9fc43d015788d61fcf653c6b013ae891f28b0b8ada77241a",
+        "sha1": "074c37516ef3004e4be8c8697a5d6a6ebb267e66"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/VQhDBNs8/versions/UsJrmtWe/aeinfinitybooster-neoforge-2.1.0%2Bmc1.21.1.jar",
+    "fileSize": 42247,
+    "projectId": "VQhDBNs8",
+    "manualLink": null,
+    "pinned": false
+}

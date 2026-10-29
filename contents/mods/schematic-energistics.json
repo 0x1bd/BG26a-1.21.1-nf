@@ -1,0 +1,17 @@
+{
+    "name": "Schematic Energistics",
+    "slug": "schematic-energistics",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "schematicenergistics-1.21.1-1.5.5.jar",
+    "hashes": {
+        "sha512": "a61ac7d9663e945985c2e55670e4388f6008ede2a1a5dbc85d16208983a8c66e6b769001c21456ee2d63eb24c9a0ae353c581efc0ae8a8833202c45028b6c468",
+        "sha1": "b1fada0be982b7ab28532c524aecf076d86192ba"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/2qXuuYu8/versions/th7Hnxq3/schematicenergistics-1.21.1-1.5.5.jar",
+    "fileSize": 241974,
+    "projectId": "2qXuuYu8",
+    "manualLink": null,
+    "pinned": false
+}
