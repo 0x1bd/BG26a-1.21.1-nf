@@ -1,0 +1,17 @@
+{
+    "name": "AE2 OMNI Cells",
+    "slug": "ae2-omni-cells",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "ae2omnicells-1.21.1-neoforge-1.1.6.jar",
+    "hashes": {
+        "sha1": "f4ddb1cdd107781950653bc056dd34ce148748cf",
+        "sha512": "9ff93665640e82900cc0d6cba5fd94e02f1125160e8535d851513420fd37b9e136764cc8713ad5de7e18aedb21818a46fab6c285e577d153f677e535fc8ea7f6"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/RYE1pYyr/versions/k444ySGT/ae2omnicells-1.21.1-neoforge-1.1.6.jar",
+    "fileSize": 867711,
+    "projectId": "RYE1pYyr",
+    "manualLink": null,
+    "pinned": false
+}
