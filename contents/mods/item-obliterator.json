@@ -1,0 +1,17 @@
+{
+    "name": "Item Obliterator",
+    "slug": "item-obliterator",
+    "provider": "mr",
+    "side": "both",
+    "sideOverride": false,
+    "fileName": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+    "hashes": {
+        "sha512": "b6d3cc651fa76c03d6845dd667fc673b74bd7409e7a1631907d82200b15ae50d76dd018c9224bc9314a46314bb478c0a48cc7b37d717e70f05dad8fb2878ac77",
+        "sha1": "0cb46a873376d7ded387e175bf30181fcc079c15"
+    },
+    "downloadUrl": "https://cdn.modrinth.com/data/3ESR84kR/versions/jy3ApWAm/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+    "fileSize": 24037,
+    "projectId": "3ESR84kR",
+    "manualLink": null,
+    "pinned": false
+}
